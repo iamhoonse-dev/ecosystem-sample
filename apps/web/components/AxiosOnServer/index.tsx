@@ -1,5 +1,5 @@
 import type { FC } from "react";
-import { iamhoonseDevInstance } from "@repo/http-clients/instances";
+import { iamhoonseDevInstance } from "@iamhoonse-dev/http-clients/instances";
 
 const AxiosOnServer: FC = async () => {
   try {
