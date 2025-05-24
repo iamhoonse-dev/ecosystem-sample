@@ -1,5 +1,5 @@
 {
-  "name": "@repo/cli",
+  "name": "@iamhoonse-dev/cli",
   "private": true,
   "version": "0.0.0",
   "bin": {
@@ -18,9 +18,9 @@
     "coverage": "vitest run --coverage"
   },
   "devDependencies": {
-    "@repo/eslint-config": "workspace:*",
-    "@repo/typescript-config": "workspace:*",
-    "@repo/vitest-config": "workspace:*",
+    "@iamhoonse-dev/eslint-config": "workspace:*",
+    "@iamhoonse-dev/typescript-config": "workspace:*",
+    "@iamhoonse-dev/vitest-config": "workspace:*",
     "@types/figlet": "^1.7.0",
     "@types/node": "^22.13.10",
     "@vitest/coverage-v8": "^3.1.1",

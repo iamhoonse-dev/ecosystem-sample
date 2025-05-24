@@ -1,3 +1,3 @@
-import nodeTestConfig from "@repo/vitest-config/node";
+import nodeTestConfig from "@iamhoonse-dev/vitest-config/node";
 
 export default nodeTestConfig;

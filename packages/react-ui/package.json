@@ -1,5 +1,5 @@
 {
-  "name": "@repo/react-ui",
+  "name": "@iamhoonse-dev/react-ui",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -68,10 +68,10 @@
     "tw-animate-css": "^1.2.5"
   },
   "devDependencies": {
-    "@repo/eslint-config": "workspace:*",
-    "@repo/helpers": "workspace:*",
-    "@repo/typescript-config": "workspace:*",
-    "@repo/vitest-config": "workspace:*",
+    "@iamhoonse-dev/eslint-config": "workspace:*",
+    "@iamhoonse-dev/helpers": "workspace:*",
+    "@iamhoonse-dev/typescript-config": "workspace:*",
+    "@iamhoonse-dev/vitest-config": "workspace:*",
     "@storybook/react": "^8.6.11",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
